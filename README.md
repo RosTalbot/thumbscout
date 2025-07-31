@@ -53,6 +53,7 @@ Optionally integrates A/B test learnings to refine future thumbnail prompts.
 ⸻
 
 ## 🧪 Evaluation & Limitations
+<details><summary>Click to expand</summary>
 
 ### ✅ Project Evaluation: ThumbScout MVP (First Run)
 
@@ -107,7 +108,7 @@ ThumbScout is an AI-powered thumbnail research assistant designed to analyze You
 - 🌱 Functional, Real-World Utility Delivered
 _🚀 Strong Candidate for Iterative Expansion (v0.2+)
 
-
+</details
 
 ⸻
 
