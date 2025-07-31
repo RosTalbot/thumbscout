@@ -69,18 +69,18 @@ ThumbScout is an AI-powered thumbnail research assistant designed to analyze You
 
 
 ### 🎯 What’s Working (MVP Successes)
-- Automated Data Pipeline
-- → From live search → OpenAI analysis → file conversion → email delivery.
-- → End-to-end automation successfully tested with real input/output.
-- Multi-tool Orchestration
-- → Seamless integration of n8n, SerpAPI, GPT, file conversion, and native email sending (no OAuth required).
-- → Used n8n’s file handling nodes and logic chains with confidence.
-- Scoping & Execution
-- → Ros reduced search load from 20 to 5 items mid-run to manage execution time and cost.
-- → Successfully tested both Turbo and GPT-4 output formatting.
+- **Automated Data Pipeline**
+  - Live search → OpenAI analysis → file conversion → email delivery.
+  - End-to-end automation successfully tested with real input/output.
+- **Multi-tool Orchestration**
+  - Seamless integration of n8n, SerpAPI, GPT, file conversion, and native email sending (no OAuth required).
+  - Used n8n’s file handling nodes and logic chains with confidence.
+- **Scoping & Execution**
+  - Load reduced from 20 to 5 items mid-run to manage execution time and cost.
+  - Both Turbo and GPT-4 output formatting.
 - Human-Centered Output
-- → CSV file was clear, readable, and attached automatically in a styled email.
-- → Subject line dynamically included the date and was branded as a “ThumbScout Report.”
+  - CSV file was clear, readable, and attached automatically in a styled email.
+  - Subject line dynamically included the date and was branded as a “ThumbScout Report.”
 
 
 ### 🛠 Opportunities for Improvement
@@ -108,7 +108,7 @@ ThumbScout is an AI-powered thumbnail research assistant designed to analyze You
 - 🌱 Functional, Real-World Utility Delivered
 _🚀 Strong Candidate for Iterative Expansion (v0.2+)
 
-</details
+</details>
 
 ⸻
 
