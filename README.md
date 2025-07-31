@@ -84,15 +84,15 @@ ThumbScout is an AI-powered thumbnail research assistant designed to analyze You
 
 
 ### 🛠 Opportunities for Improvement
-- Limited Search Input
-- → Current SerpAPI query is short and broad. Niche-specific strings would yield more dialed-in, relevant titles for better insights.
-- Manual Execution Bottlenecks
-- → Workflow currently requires manual step-by-step execution in n8n. Needs triggers or chaining for a true one-click (or scheduled) experience.
-- Output Structure & Context
-- → GPT responses are dumped into a single message.content field. Needs parsing into structured fields (e.g., Hook Type, Format Style, Emotional Appeal).
-- → Source attribution is missing—no original URLs or video titles are included for traceability.
-- Redundant Data Columns
-- → Output includes unnecessary GPT metadata like message.role, refusal, etc., which could be stripped out in a clean-up step.
+- **Limited Search Input
+  - Current SerpAPI query is short and broad. Niche-specific strings would yield more dialed-in, relevant titles for better insights.
+- **Manual Execution Bottlenecks**
+  - Workflow currently requires manual step-by-step execution in n8n. Needs triggers or chaining for a true one-click (or scheduled) experience.
+- **Output Structure & Context**
+  - GPT responses are dumped into a single message.content field. Needs parsing into structured fields (e.g., Hook Type, Format Style, Emotional Appeal).
+  - Source attribution is missing—no original URLs or video titles are included for traceability.
+  - Redundant Data Columns
+  - Output includes unnecessary GPT metadata like message.role, refusal, etc., which could be stripped out in a clean-up step.
 
 
 ### 💡 Next Steps
